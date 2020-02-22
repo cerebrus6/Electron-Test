@@ -1,0 +1,59 @@
+/*Design*/
+body {
+	background-image: url('images/homebgpic.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 800;
+	height: 600;
+ }
+
+canvas#canvas {
+	border-style: inset;
+	border-color: grey;
+	border-radius: .3em;
+	border-width: 1em;
+	background-image:url('images/snake.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: inline-block;
+	margin: 3%;
+}
+
+div.center_Align {
+	text-align: center;;
+}
+
+button#new_Game {
+	color: white;
+	background-color: black;
+	width: 10%;
+	display: inline-block;
+	border-style: solid;
+	border-color: white;
+	border-width: 1px;
+	border-radius: .3em;
+	font-size: 100%;
+	min-width: 10em;
+	outline: none;
+}
+
+#new_Game_Button {
+	font-size: 150%;
+	margin-top: 5%;
+	margin-bottom: 0%;
+	font-family: fantasy;
+}
+
+#score_Design {
+	font-style: bold;
+	font-size: 125%;
+	color: white;
+	font-family: verdana;
+	display: block;
+}
+
+#score {
+	color: white;
+	background-color: black;
+	border: inset 2px white;
+}
