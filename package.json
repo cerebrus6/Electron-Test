@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cerebrus6/Electron-Test.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Dio",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/cerebrus6/Electron-Test/issues"
+  },
+  "homepage": "https://github.com/cerebrus6/Electron-Test#readme",
+  "devDependencies": {
+    "electron": "^8.0.1"
+  }
+}
