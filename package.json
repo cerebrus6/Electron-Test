@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/cerebrus6/Electron-Test#readme",
   "devDependencies": {
-    "electron": "^8.0.1"
+    "electron": "^9.4.0"
   },
   "dependencies": {
     "jquery": "^3.4.1"
